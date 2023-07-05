@@ -1,5 +1,5 @@
 #include "adc.h"
-
+ 
 #include <stdint.h>
 #include <stdio.h>
 
